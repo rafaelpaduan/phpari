@@ -23,6 +23,9 @@
  * the library `phpari' (a library for creating smart telephony applications)
  * written by Nir Simionovich and its respective list of contributors.
  */
+
+// RAFAEL PADUAN - Só pra saber de seu certo :)
+
 class phpari_config {
 
 	private $configuration = array(
